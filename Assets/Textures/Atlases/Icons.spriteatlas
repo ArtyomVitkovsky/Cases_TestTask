@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 15f3ef416e1e7c64b9eab9736ea9e3bd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6b491070e36a15944b6ed14ca16ba17f, type: 3}
+  - {fileID: 21300000, guid: 52dcb3807f2dbe645a91b3c14ce190d8, type: 3}
+  - {fileID: 21300000, guid: daba9e807952caa419fdcb093cc42834, type: 3}
+  - {fileID: 21300000, guid: 6260d5214ce85fd4aa5e037d39dab943, type: 3}
+  - {fileID: 21300000, guid: 5309ac22a0f5cc64097a32cde4320786, type: 3}
+  - {fileID: 21300000, guid: 8c428dd2608ad7545884ea4b3406a1d9, type: 3}
+  - {fileID: 21300000, guid: 72e5f5038f9fae4418f7f1a051e4cb74, type: 3}
+  - {fileID: 21300000, guid: da6bd8335754f08499216397219b8829, type: 3}
+  - {fileID: 21300000, guid: e92022f6780a8694d86f60fdbfbe3828, type: 3}
+  - {fileID: 21300000, guid: 95c30ff60c70ea04d954057b5f7f248a, type: 3}
+  - {fileID: 21300000, guid: 873901676ca0cd149b1301a98005daa2, type: 3}
+  - {fileID: 21300000, guid: b8855e88ea9d0d945aec5618516ea1de, type: 3}
+  - {fileID: 21300000, guid: e3fb82a8ba2d69442ad030da4403b350, type: 3}
+  - {fileID: 21300000, guid: d2153ef9fd341c4439830188872031d5, type: 3}
+  - {fileID: 21300000, guid: 3e169f0b1b9541d43807c55a49b32615, type: 3}
+  - {fileID: 21300000, guid: 45a4e12b77e87074faaa5095e9ceaaea, type: 3}
+  - {fileID: 21300000, guid: 1f315aeb3721920478fbee363d0bcdb0, type: 3}
+  - {fileID: 21300000, guid: 2ff92b6c3da9f854ea733318a09c13c3, type: 3}
+  - {fileID: 21300000, guid: 0f5ab99c0e060244dbdccb289c84821e, type: 3}
+  - {fileID: 21300000, guid: 713c0c9db65017b47b50909f52460742, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - animals-vector-free-icon-set-32
+  - animals-vector-free-icon-set-37
+  - animals-vector-free-icon-set-23
+  - animals-vector-free-icon-set-33
+  - animals-vector-free-icon-set-24
+  - animals-vector-free-icon-set-39
+  - animals-vector-free-icon-set-28
+  - animals-vector-free-icon-set-35
+  - animals-vector-free-icon-set-26
+  - animals-vector-free-icon-set-34
+  - animals-vector-free-icon-set-29
+  - animals-vector-free-icon-set-40
+  - animals-vector-free-icon-set-31
+  - animals-vector-free-icon-set-36
+  - animals-vector-free-icon-set-38
+  - animals-vector-free-icon-set-21
+  - animals-vector-free-icon-set-27
+  - animals-vector-free-icon-set-22
+  - animals-vector-free-icon-set-30
+  - animals-vector-free-icon-set-25
+  m_RenderDataMap: {}
+  m_Tag: Icons
+  m_IsVariant: 0
